@@ -1,20 +1,19 @@
 # Lucas Tagliapietra
 
-¡Hola! Soy Lucas Tagliapietra, un apasionado desarrollador de software con experiencia en diversas tecnologías y lenguajes de programación. Me encanta resolver problemas y crear soluciones innovadoras.
+¡Hola! Soy Lucas Tagliapietra, un Desarrollador Web Full-Stack con experiencia en diversas tecnologías y lenguajes de programación. Me encanta resolver problemas y crear soluciones innovadoras.
 
 ## 🚀 Sobre Mí
 
-- 🌱 Actualmente estoy aprendiendo **[mencionar tecnología o habilidad]**
-- 💬 Pregúntame sobre **[temas de interés]**
-- 📫 Cómo contactarme: **[tu email o perfil de LinkedIn]**
-- ⚡ Dato curioso: **[algo interesante sobre ti]**
+- 💬 Pregúntame sobre **JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, HTML, CSS, Python**
+- 📫 Cómo contactarme: **[www.linkedin.com/in/lucas-matías-tagliapietra-b48667211]**
+
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** [Python, JavaScript, etc.]
-- **Frameworks y Librerías:** [React, Node.js, etc.]
-- **Bases de Datos:** [MySQL, MongoDB, etc.]
-- **Herramientas:** [Git, Docker, etc.]
+- **Lenguajes:** JavaScript, Python
+- **Frameworks y Librerías:** React, Redux, Node.js, Express, Sequelize
+- **Bases de Datos:** PostgreSQL
+- **Frontend:** HTML, CSS
 
 ## 📈 Estadísticas de GitHub
 
