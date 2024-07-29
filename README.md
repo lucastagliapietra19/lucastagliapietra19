@@ -1,16 +1,36 @@
-## Hi there 👋
+# Lucas Tagliapietra
 
-<!--
-**lucastagliapietra19/lucastagliapietra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Lucas Tagliapietra, un apasionado desarrollador de software con experiencia en diversas tecnologías y lenguajes de programación. Me encanta resolver problemas y crear soluciones innovadoras.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente estoy aprendiendo **[mencionar tecnología o habilidad]**
+- 💬 Pregúntame sobre **[temas de interés]**
+- 📫 Cómo contactarme: **[tu email o perfil de LinkedIn]**
+- ⚡ Dato curioso: **[algo interesante sobre ti]**
+
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** [Python, JavaScript, etc.]
+- **Frameworks y Librerías:** [React, Node.js, etc.]
+- **Bases de Datos:** [MySQL, MongoDB, etc.]
+- **Herramientas:** [Git, Docker, etc.]
+
+## 📈 Estadísticas de GitHub
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LucasTagliapietra&show_icons=true&theme=radical)
+
+## 📌 Proyectos Destacados
+
+- **[Nombre del Proyecto](link a tu proyecto):** Descripción breve del proyecto.
+- **[Nombre del Proyecto](link a tu proyecto):** Descripción breve del proyecto.
+
+## 📚 Últimos Posts en el Blog
+
+- **[Título del Post](link al post):** Descripción breve del post.
+- **[Título del Post](link al post):** Descripción breve del post.
+
+## 🗂️ Repositorios
+
+- **[Repositorio 1](link al repositorio):** Descripción breve.
+- **[Repositorio 2](link al repositorio):** Descripción breve.
