@@ -15,21 +15,8 @@
 - **Bases de Datos:** PostgreSQL
 - **Frontend:** HTML, CSS
 
-## 📈 Estadísticas de GitHub
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LucasTagliapietra&show_icons=true&theme=radical)
 
 ## 📌 Proyectos Destacados
 
-- **[Nombre del Proyecto](link a tu proyecto):** Descripción breve del proyecto.
-- **[Nombre del Proyecto](link a tu proyecto):** Descripción breve del proyecto.
+- **[Campeones del mundo](link a tu proyecto):** Pagina de e-comerce dedica a venta de productos deportivos
 
-## 📚 Últimos Posts en el Blog
-
-- **[Título del Post](link al post):** Descripción breve del post.
-- **[Título del Post](link al post):** Descripción breve del post.
-
-## 🗂️ Repositorios
-
-- **[Repositorio 1](link al repositorio):** Descripción breve.
-- **[Repositorio 2](link al repositorio):** Descripción breve.
