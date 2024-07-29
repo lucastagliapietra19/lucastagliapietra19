@@ -18,5 +18,5 @@
 
 ## 📌 Proyectos Destacados
 
-- **[Campeones del mundo](link a tu proyecto):** Pagina de e-comerce dedica a venta de productos deportivos
+- **[Campeones del mundo](https://github.com/lucastagliapietra19/H-PF18B-CampeonesDelMundo.git):** Pagina de e-comerce dedica a venta de productos deportivos
 
