@@ -6,6 +6,7 @@ Me destaco por ser una persona proactiva y responsable, con una gran capacidad p
 
 Mi objetivo es continuar creciendo profesionalmente, enfrentar nuevos desafíos y contribuir al éxito de los proyectos en los que participo. 🎯 Estoy siempre abierto a explorar nuevas oportunidades y colaboraciones en el ámbito del desarrollo web. 💡
 - 📫 Cómo contactarme: **[www.linkedin.com/in/lucas-matías-tagliapietra-b48667211]**
+- 💼 Portfolio: **[https://portfolio-ijw3.onrender.com/]**
 
 
 ## 🛠️ Tecnologías y Herramientas
